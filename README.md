@@ -1,11 +1,31 @@
-# Project List:
+## Project List:
 
-## 1. ChatBot
+### 1. chat-bot
 
-### About this project:
+#### About this project:
 
-This is a mini project I did in my second year of B.Tech. It is a basic Chatbot script written in Python.
+A basic Chatbot script in Python.
 
-### Libraries used:
+#### Libraries used:
 
-I used aiml python lib to implement this chatbot.
+AIML.
+
+### 2. interactive-dictionary
+
+#### About this project:
+
+Interactive dictionary that will suggest similar words when a typo is made and the word searched for is not found in the data.
+
+#### Libraries used:
+
+Json, difflib and re.
+
+### 3. web-map-app
+
+#### About this project:
+
+A python script that generates multi layer map in html. This particular one shows population data and marks volcanoes in the USA.
+
+#### Libraries used:
+
+Pandas, folium and json.
